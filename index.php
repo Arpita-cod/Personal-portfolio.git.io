@@ -96,7 +96,8 @@ if(isset($message)){
    <div class="content">
       <h3 data-aos="fade-up">hi, i am Arpita Zarekar</h3>
       <span data-aos="fade-up">web designer & developer</span>
-      <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis labore recusandae minima molestias aliquam nostrum.</p>
+      <p data-aos="fade-up">To make impactful contribution to the organization through my technical and analytical skills and seek
+opportunity to grow the professional path.</p>
       <a data-aos="fade-up" href="#about" class="btn">about me</a>
    </div>
 
@@ -112,7 +113,7 @@ if(isset($message)){
 
    <div class="biography">
 
-      <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tenetur amet ab optio minus est error libero adipisci numquam ratione.</p>
+      <p data-aos="fade-up"> Stay Patience And trust Your Journey.</p>
 
       <div class="bio">
          <h3 data-aos="zoom-in"> <span>name : </span> Arpita Zarekar </h3>
