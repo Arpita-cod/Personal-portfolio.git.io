@@ -94,7 +94,7 @@ if(isset($message)){
    </div>
 
    <div class="content">
-      <h3 data-aos="fade-up">hi, i am sana shaikh</h3>
+      <h3 data-aos="fade-up">hi, i am Arpita Zarekar</h3>
       <span data-aos="fade-up">web designer & developer</span>
       <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis labore recusandae minima molestias aliquam nostrum.</p>
       <a data-aos="fade-up" href="#about" class="btn">about me</a>
@@ -115,12 +115,12 @@ if(isset($message)){
       <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tenetur amet ab optio minus est error libero adipisci numquam ratione.</p>
 
       <div class="bio">
-         <h3 data-aos="zoom-in"> <span>name : </span> sana shaikh </h3>
-         <h3 data-aos="zoom-in"> <span>email : </span> sanashaikh@gmail.com </h3>
-         <h3 data-aos="zoom-in"> <span>address : </span> mumbai, india </h3>
-         <h3 data-aos="zoom-in"> <span>phone : </span> +123-456-7890 </h3>
-         <h3 data-aos="zoom-in"> <span>age : </span> 22 years </h3>
-         <h3 data-aos="zoom-in"> <span>experience : </span> 2+ years </h3>
+         <h3 data-aos="zoom-in"> <span>name : </span> Arpita Zarekar </h3>
+         <h3 data-aos="zoom-in"> <span>email : </span> arpitazarekar3@gmail.com </h3>
+         <h3 data-aos="zoom-in"> <span>address : </span> Nagar, india </h3>
+         <h3 data-aos="zoom-in"> <span>phone : </span> 9307710334</h3>
+         <h3 data-aos="zoom-in"> <span>age : </span> 21 years </h3>
+         <h3 data-aos="zoom-in"> <span>experience : </span> 1+ years </h3>
       </div>
 
       <a href="#" class="btn" data-aos="fade-up">download CV</a>
@@ -164,7 +164,7 @@ if(isset($message)){
 
             <div class="box" data-aos="fade-right">
                <span>( 2021 - 2022 )</span>
-               <h3>graphic designer</h3>
+               <h3>c, c++ programer</h3>
                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
             </div>
 
@@ -218,25 +218,25 @@ if(isset($message)){
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-paint-brush"></i>
-         <h3>graphic design</h3>
+         <h3>java basics</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fab fa-bootstrap"></i>
-         <h3>bootstrap</h3>
+         <h3>blockchain developer</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-chart-line"></i>
-         <h3>seo marketing</h3>
+         <h3>cloud computing</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-bullhorn"></i>
-         <h3>digital marketing</h3>
+         <h3>javascript</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
       </div>
 
@@ -323,19 +323,19 @@ if(isset($message)){
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-phone"></i>
          <h3>phone</h3>
-         <p>+123-456-7890</p>
+         <p>9307710334</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-envelope"></i>
          <h3>email</h3>
-         <p>sanashaikh@gmail.com</p>
+         <p>arpitazarekar3@gmail.com</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-map-marker-alt"></i>
          <h3>address</h3>
-         <p>mumbai, india - 400104</p>
+         <p>Nagar, india - 400104</p>
       </div>
 
    </div>
@@ -344,7 +344,7 @@ if(isset($message)){
 
 <!-- contact section ends -->
 
-<div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>mr. web designer</span> </div>
+<div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>miss web designer</span> </div>
 
 
 
