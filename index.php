@@ -90,7 +90,7 @@ if(isset($message)){
 <section class="home" id="home">
 
    <div class="image" data-aos="fade-right">
-      <img src="images/user-img.jpg" alt="">
+      <img src="User_img.jpg11.jpg" alt="">
    </div>
 
    <div class="content">
