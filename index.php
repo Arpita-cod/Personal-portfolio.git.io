@@ -160,13 +160,13 @@ opportunity to grow the professional path.</p>
             <div class="box" data-aos="fade-right">
                <span>( 2020 - 2021 )</span>
                <h3>web developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p>good grasp of the collaborative process that goes behind the building of a product..</p>
             </div>
 
             <div class="box" data-aos="fade-right">
                <span>( 2021 - 2022 )</span>
                <h3>c, c++ programer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p> the technical capabilities an individual learns to create successful programs and applications.</p>
             </div>
 
          </div>
@@ -178,19 +178,19 @@ opportunity to grow the professional path.</p>
             <div class="box" data-aos="fade-left">
                <span>( 2019 - 2020 )</span>
                <h3>front-end developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p>Developers should be well versed in technical skills, they should be perfect with technical attributes and constantly upgrade themselves with the latest technologies</p>
             </div>
 
             <div class="box" data-aos="fade-left">
                <span>( 2020 - 2021 )</span>
                <h3>back-end developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p>Developers should be well versed in technical skills, they should be perfect with technical attributes and constantly upgrade themselves with the latest technologies.</p>
             </div>
 
             <div class="box" data-aos="fade-left">
                <span>( 2021 - 2022 )</span>
                <h3>full-stack developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p>Developers should be well versed in technical skills, they should be perfect with technical attributes and constantly upgrade themselves with the latest technologies</p>
             </div>
 
          </div>
@@ -214,37 +214,37 @@ opportunity to grow the professional path.</p>
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-code"></i>
          <h3>web development</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>the technical capabilities an individual learns to create successful programs and applications.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-paint-brush"></i>
          <h3>java basics</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>Object oriented concepts</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fab fa-bootstrap"></i>
          <h3>blockchain developer</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>Etherium,bitcoin,crowdfunding,web3.o.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-chart-line"></i>
          <h3>cloud computing</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>AWS services EC@,SNS,S3,VPC.</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-bullhorn"></i>
          <h3>javascript</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>well versed in technical skills, they should be perfect with technical attributes and constantly upgrade themselves with the latest technologies, tools, and frameworks..</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fab fa-wordpress"></i>
          <h3>wordpress</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>well versed in technical skills, they should be perfect with technical attributes and constantly upgrade themselves with the latest technologies, tools, and frameworks.</p>
       </div>
 
    </div>
@@ -345,7 +345,7 @@ opportunity to grow the professional path.</p>
 
 <!-- contact section ends -->
 
-<div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>miss web designer</span> </div>
+<div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>miss Arpita-coder designer</span> </div>
 
 
 
